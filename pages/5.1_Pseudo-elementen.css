@@ -1,0 +1,29 @@
+ul li a{
+    color: #D84282;
+}
+
+ul li a::after{
+    display: inline-block;
+    content:"--->";
+}
+#talkbubble{
+    width:120px;
+    height:80px;
+    background-color: #D84282;
+    border-radius: 10px;
+    position: relative;
+    margin:30px;
+}
+#talkbubble::before{
+    content: "";
+    display: block;
+    width: 0;
+    height: 0;
+    border-top: 13px solid transparent;
+    border-bottom: 13px solid transparent;
+    border-right: 20px solid #D84282;
+    position: absolute;
+    top:26px;
+    left:-20px;
+
+}

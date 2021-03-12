@@ -1,0 +1,19 @@
+#target, target:link,target:visited{
+    font-family: helvetica, sans-serif;
+    font-size:30px;
+    color:#D84282;
+    text-decoration: none;
+}
+#target::after{
+    display: block;
+    content:"";
+    width:0%;
+    height:3px;
+    background-color: #D84282;
+    transition-property: width;
+    transition-duration: 0.35s;
+    transition-timing-function: ease-in;
+}
+#target:hover::after{
+    width: 10%;
+}

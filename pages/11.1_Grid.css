@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+body {
+    display: grid;
+    /*grid-template-rows:  40px 300px auto 40px;*/
+    grid-template-rows: 10em 50vh auto 10em;
+    grid-template-columns: 1fr minmax(10px,50vw) minmax(15em,30vw) 1fr;
+    grid-template-areas: "header header header header"
+        "hero hero hero hero"
+        ". main side ."
+        "footer footer footer footer";
+    grid-column-gap: 1.5em;
+}
+
+header{
+    grid-area:header;
+}
+.hero{
+    grid-area:hero;
+    background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/308367/gridarea-hero-bg.jpg);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.hero-title{
+    font-family: "Times New Roman", Serif;
+    font-size: xx-large;
+    margin: 0;
+}
+main{
+    grid-area:main;
+}
+aside{
+    grid-area:side;
+    background-color: darkgray;
+    padding:2em;
+}
+footer{
+    grid-area:footer;
+}
+
+
+/*header{*/
+/*    grid-column: 1/5;*/
+/*}*/
+/*.hero{*/
+/*    grid-column: 1/5;*/
+/*}*/
+/*main{*/
+/*    grid-column: 2/3;*/
+/*}*/
+/*aside{*/
+/*    grid-column: 3/4;*/
+/*}*/
+/*footer{*/
+/*    grid-column: 1/5;*/
+/*}*/
+
+header, footer{
+    background-color: black;
+    color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    display:grid;
+    grid-template-columns: 1fr 3fr;
+    grid-template-rows: min-content auto;
+    grid-template-areas: "img title"
+        "img content";
+    box-shadow: 0 0 1em rgba(0, 0, 0, 0.5);
+    padding:1.5em;
+    grid-column-gap: 1.5em;
+    margin-bottom: 1.5em;
+}
+.card-img{
+    grid-area:img;
+    background-color: pink;
+    max-width: 100%;
+}
+.card-title{
+    grid-area:title;
+    background-color: lightblue;
+    margin:0;
+    font-weight: 300;
+}
+.card-content{
+    grid-area:content;
+    background-color: lightgreen;
+
+}
+.card-content > a{
+    color:yellow;
+    font-size: 1.1em;
+}
+

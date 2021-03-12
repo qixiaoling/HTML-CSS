@@ -17,7 +17,7 @@ Je gaat een pagina opbouwen met HTML die er **exact** zo uit ziet zoals het voor
 
 ## Hoe de pagina eruit komt te zien
 
-![Screenshot van de pagina](screenshot.png)
+![Screenshot v400 g champignonsan de pagina](screenshot.png)
 
 ## Dummy tekst
 

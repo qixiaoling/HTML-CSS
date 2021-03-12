@@ -1,22 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23668cd8-4539-49c9-ae0e-8a6ddb70b7c2" name="Default Changelist" comment="" />
+    <list default="true" id="23668cd8-4539-49c9-ae0e-8a6ddb70b7c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pages/1.0_Spinazie.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/1.1_voedingswaarden.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/10.0_Flexbox.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/10.1_Flexbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/11.0_Grid.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/2.0_Frambozen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/2.1_Frambozen.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/3.0_shadow.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/3.1_shadow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/4.0_vorm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/4.1_vorm.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/5.0_Pseudo-elementen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/5.1_Pseudo-elementen.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/7.0_Transities.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/7.1_Transities.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/7.3_Transition_cube.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/7.4_Transition_cube.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/7.5_Animations.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/7.6_Animations.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/7.7_main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/8.0_menu_bar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/8.1_menu_bar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/8.2_Hamburger.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/8.3_Hamburger.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/9.0_speaker.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/9.1_Speaker.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/11.1_Grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/voedingswaarden.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hBzClXPuJNivE8yfWQiZNstqT8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Downloads\FrontEnd" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -27,16 +81,28 @@
       <option name="presentableId" value="Default" />
       <updated>1599499147484</updated>
       <workItem from="1599499148549" duration="6947000" />
+      <workItem from="1614696940566" duration="5427000" />
+      <workItem from="1614775297621" duration="7636000" />
+      <workItem from="1614860961843" duration="1153000" />
+      <workItem from="1614863161140" duration="30143000" />
+      <workItem from="1615301871030" duration="9254000" />
+      <workItem from="1615457264629" duration="4045000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="561" y="258" width="670" height="676" key="search.everywhere.popup" timestamp="1599502069695">
-      <screen x="0" y="23" width="1792" height="1097" />
-    </state>
-    <state x="561" y="258" width="670" height="676" key="search.everywhere.popup/-1920.-93.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1599502069695" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

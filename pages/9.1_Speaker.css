@@ -1,0 +1,45 @@
+html{
+    background-color: #191919;
+}
+
+#d{
+    background-color: #191919;
+    width:75px;
+    height:75px;
+    border-radius: 50%;
+    box-shadow:
+            0 0 0 10px #5DBCF9,
+            0 0 0 20px #191919,
+            0 0 0 30px #5DBCF9,
+            0 0 0 40px #191919;
+
+
+}
+#parent{
+    height:150px;
+    width:150px;
+    background-color: pink;
+}
+
+#b{
+    height: 0;
+    width: 0;
+    border-top: 50px solid transparent;
+    border-bottom: 50px solid transparent;
+    border-right: 70px solid #5DBCF9;
+    margin: 50px;
+    position: relative;
+}
+#b::before{
+    display: inline-block;
+    position: absolute;
+    width:40px;
+    height:40px;
+    border-radius: 10px;
+    background-color: #5DBCF9;
+    content: "";
+    top:-20px;
+    left:-5px;
+}
+
+
