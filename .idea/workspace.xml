@@ -2,36 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23668cd8-4539-49c9-ae0e-8a6ddb70b7c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pages/1.0_Spinazie.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/1.1_voedingswaarden.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/10.0_Flexbox.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/10.1_Flexbox.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/11.0_Grid.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/2.0_Frambozen.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/2.1_Frambozen.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/3.0_shadow.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/3.1_shadow.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/4.0_vorm.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/4.1_vorm.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/5.0_Pseudo-elementen.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/5.1_Pseudo-elementen.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/7.0_Transities.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/7.1_Transities.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/7.3_Transition_cube.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/7.4_Transition_cube.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/7.5_Animations.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/7.6_Animations.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/7.7_main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/8.0_menu_bar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/8.1_menu_bar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/8.2_Hamburger.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/8.3_Hamburger.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/9.0_speaker.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/9.1_Speaker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/8.4_Hamburger_Animation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/8.5_Hamburger_Animation.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/11.1_Grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/voedingswaarden.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/7.7_main.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/8.2_Hamburger.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/8.2_Hamburger.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/8.3_Hamburger.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/8.3_Hamburger.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +38,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Downloads/iPortfolio-bootstrap-4/iPortfolio" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -86,7 +62,9 @@
       <workItem from="1614860961843" duration="1153000" />
       <workItem from="1614863161140" duration="30143000" />
       <workItem from="1615301871030" duration="9254000" />
-      <workItem from="1615457264629" duration="4045000" />
+      <workItem from="1615457264629" duration="5895000" />
+      <workItem from="1615716186344" duration="777000" />
+      <workItem from="1615898537290" duration="7523000" />
     </task>
     <servers />
   </component>
