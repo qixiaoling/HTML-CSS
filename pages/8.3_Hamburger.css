@@ -35,12 +35,15 @@ body {
 .menu-btn__burger::before {
     content:"";
     position: absolute;
+    display: block;
+    /*beter altijd doen want straks als je meer element hebben, dan kan het raar doen.*/
     width: 50px;
     height: 6px;
     background-color: #fff;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(255,101,47,.2);
     transform: translateY(-16px);
+    /*left:0; top:-20px; zo is better for the animation straks. dit is te opzicht van de middelste streep*/
     transition-property: background-color;
     transition-duration: 1s;
     transition-timing-function: ease-in;
@@ -49,11 +52,13 @@ body {
 .menu-btn__burger::after {
     content: "";
     position: absolute;
+    /*beter altijd doen want straks als je meer element hebben, dan kan het raar doen.*/
     width: 50px;
     height: 6px;
     background-color:  #fff;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(255,101,47,.2);
+    /*left:0; top:20px;zo is better for the animation straks. dit is te opzicht van de middelste streep*/
     transform: translateY(16px);
     transition-property: background-color;
     transition-duration: 1s;

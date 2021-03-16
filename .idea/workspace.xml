@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23668cd8-4539-49c9-ae0e-8a6ddb70b7c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pages/8.4_Hamburger_Animation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/8.5_Hamburger_Animation.css" afterDir="false" />
+    <list default="true" id="23668cd8-4539-49c9-ae0e-8a6ddb70b7c2" name="Default Changelist" comment="hamburger animation">
+      <change afterPath="$PROJECT_DIR$/pages/8.6_Hamburger_Animation_Nova.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/8.7_Hamburger_Animation_Nova.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/7.7_main.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/8.2_Hamburger.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/8.2_Hamburger.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/8.3_Hamburger.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/8.3_Hamburger.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,8 +62,16 @@
       <workItem from="1615301871030" duration="9254000" />
       <workItem from="1615457264629" duration="5895000" />
       <workItem from="1615716186344" duration="777000" />
-      <workItem from="1615898537290" duration="7523000" />
+      <workItem from="1615898537290" duration="12151000" />
     </task>
+    <task id="LOCAL-00001" summary="hamburger animation">
+      <created>1615914163602</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615914163603</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,5 +88,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hamburger animation" />
+    <option name="LAST_COMMIT_MESSAGE" value="hamburger animation" />
   </component>
 </project>
